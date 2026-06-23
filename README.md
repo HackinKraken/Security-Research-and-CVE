@@ -2,12 +2,11 @@
 # CVE-Research
 ## My Research-to-CVE Pipeline
 Researcher: Steven Amador
-
 Alias & Handle: HackinKraken
 
 *Be sure to follow if you would like to stay updated. I intend to keep searching and improving my skillset.*
 
-### I have more detailed write ups available on my website: https://hackinkraken.com
+#### **I have more detailed write ups available on my website: https://hackinkraken.com**
 
 ## CVE-2022-2650 — Improper Restriction of Excessive Authentication Attempts in GitHub repository wger-project/wger prior to 2.2
 I came across **wger**, a workout application that had a demo site and allowed for standalone installation. I found the **application** would not block brute-force attacks against the login page. Very simple, very straightforward. This led to my first CVE: `CVE-2022-2650`.
