@@ -2,6 +2,7 @@
 # CVE-Research
 ## My Research-to-CVE Pipeline
 Researcher: Steven Amador
+
 Alias & Handle: HackinKraken
 
 *Be sure to follow if you would like to stay updated. I intend to keep searching and improving my skillset.*
